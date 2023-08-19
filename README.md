@@ -9,6 +9,6 @@ Welcome to my first programming project - an interactive children's book! This p
 - **Engaging Experience:** The book is designed to be engaging and interactive, making reading a fun and enjoyable experience for children.
 
 ## Sneak peek
-![Image Name](story1.jpg)
-![Image Name](story2.jpg)
+![Image Name](story1.png)
+![Image Name](story2.png)
 
